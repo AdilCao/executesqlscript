@@ -1,0 +1,17 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.kd.execute.test.DBProperties",
+      "name": "spring",
+      "type": "com.kd.execute.test.DBProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.kd.execute.test.DBProperties",
+      "name": "spring.datasource",
+      "type": "java.util.Map<java.lang.String,java.lang.String>"
+    }
+  ]
+}
